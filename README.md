@@ -1,1 +1,1 @@
-# mcp-demo
+# Simple Demo with MCP Server and Client 
